@@ -7,6 +7,19 @@
 
 **Link**: https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/learn/
 
+**Andamento:**
+
+Tópicos   | Concluído
+--------- | ------
+Seção 1: Introdução | 100%
+Seção 2: Configurando o Computador | 100%
+Seção 3: Iniciando com Programação | 100%
+Seção 4: Operadores | 80%
+Seção 5: Estruturas de Controle | 0%
+Seção 6: Funções | 0%
+Seção 7: Arrays | 0%
+Seção 8: Objetos | 0%
+Seção 9: Lista de Exercícios | 0%
 
 **Seção 1: Introdução** - 1h43m ✓
 
