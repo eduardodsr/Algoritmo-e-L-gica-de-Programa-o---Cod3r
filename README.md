@@ -20,6 +20,7 @@ Seção 6: Funções | 0%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
+Total Geral | 35%
 
 **Seção 1: Introdução** - 1h43m ✓
 
@@ -92,10 +93,10 @@ Seção 9: Lista de Exercícios | 0%
 16. Desafio Operadores de Atribuição - Resposta ✓
 17. Operadores Lógicos - Teoria #01 ✓
 18. Operadores Lógicos - Teoria #02 ✓
-19. Operadores Lógicos - Teoria #03
-20. Operadores Lógicos - Teoria #04
-21. Operadores Lógicos - Teoria #05
-22. Operadores Lógicos - Teoria #06
+19. Operadores Lógicos - Teoria #03 ✓
+20. Operadores Lógicos - Teoria #04 ✓
+21. Operadores Lógicos - Teoria #05 ✓
+22. Operadores Lógicos - Teoria #06 ✓
 23. Operadores Lógicos - Prática #01
 24. Operadores Lógicos - Prática #02
 25. Desafio Operadores Lógicos
