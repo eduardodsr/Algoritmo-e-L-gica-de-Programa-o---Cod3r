@@ -5,7 +5,7 @@
 **Aulas**: 160  
 **Vídeo**: 18 horas no total
 
-**Link**: https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/learn/
+**Link**: https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/
 
 **Andamento:**
 
