@@ -15,12 +15,12 @@ Seção 1: Introdução | 100%
 Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
-Seção 5: Estruturas de Controle | 0%
+Seção 5: Estruturas de Controle | 20%
 Seção 6: Funções | 0%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
-Total Geral | 35%
+Total Geral | 50%
 
 **Seção 1: Introdução** - 1h43m ✓
 
@@ -112,16 +112,16 @@ Total Geral | 35%
 
 **Seção 5: Estruturas de Controle** - 3h 27m
 
-72. Visão Geral das Estruturas de Controle #01
-2. Visão Geral das Estruturas de Controle #02
-3. If - Teoria
-4. If - Prática #01
-5. If - Prática #02
-6. If - Prática #03
-7. If - Prática #04 - Desafio
-8. If - Prática #04 - Resposta
-9. Desafio If
-10. Desafio If - Resposta
+72. Visão Geral das Estruturas de Controle #01 ✓
+2. Visão Geral das Estruturas de Controle #02 ✓
+3. If - Teoria ✓
+4. If - Prática #01 ✓
+5. If - Prática #02 ✓
+6. If - Prática #03 ✓
+7. If - Prática #04 - Desafio ✓
+8. If - Prática #04 - Resposta ✓
+9. Desafio If ✓
+10. Desafio If - Resposta ✓
 11. If/Else - Teoria
 12. If/Else - Prática #01
 13. If/Else - Prática #02
