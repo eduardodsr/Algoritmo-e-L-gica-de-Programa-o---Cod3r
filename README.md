@@ -14,7 +14,7 @@ Tópicos   | Concluído
 Seção 1: Introdução | 100%
 Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
-Seção 4: Operadores | 80%
+Seção 4: Operadores | 100%
 Seção 5: Estruturas de Controle | 0%
 Seção 6: Funções | 0%
 Seção 7: Arrays | 0%
@@ -97,18 +97,18 @@ Total Geral | 35%
 20. Operadores Lógicos - Teoria #04 ✓
 21. Operadores Lógicos - Teoria #05 ✓
 22. Operadores Lógicos - Teoria #06 ✓
-23. Operadores Lógicos - Prática #01
-24. Operadores Lógicos - Prática #02
-25. Desafio Operadores Lógicos
-26. Desafio Operadores Lógicos - Resposta
-27. Operadores Unários - Prática #01
-28. Operadores Unários - Prática #02
-29. Operadores Unários - Prática #03
-30. Operador Ternário - Teoria
-31. Operador Ternário - Prática #01
-32. Operador Ternário - Prática #02
-33. Desafio Operador Ternário
-34. Desafio Operador Ternário - Resposta
+23. Operadores Lógicos - Prática #01 ✓
+24. Operadores Lógicos - Prática #02 ✓
+25. Desafio Operadores Lógicos ✓
+26. Desafio Operadores Lógicos - Resposta ✓
+27. Operadores Unários - Prática #01 ✓
+28. Operadores Unários - Prática #02 ✓
+29. Operadores Unários - Prática #03 ✓
+30. Operador Ternário - Teoria ✓
+31. Operador Ternário - Prática #01 ✓
+32. Operador Ternário - Prática #02 ✓
+33. Desafio Operador Ternário ✓
+34. Desafio Operador Ternário - Resposta ✓
 
 **Seção 5: Estruturas de Controle** - 3h 27m
 
