@@ -16,7 +16,7 @@ Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
 Seção 5: Estruturas de Controle | 100%
-Seção 6: Funções | 1000%
+Seção 6: Funções | 100%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
