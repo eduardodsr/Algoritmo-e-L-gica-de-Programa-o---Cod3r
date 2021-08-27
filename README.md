@@ -16,7 +16,7 @@ Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
 Seção 5: Estruturas de Controle | 100%
-Seção 6: Funções | 0%
+Seção 6: Funções | 50%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
@@ -151,17 +151,17 @@ Total Geral | 60%
 **Seção 6: Funções** - 3h 20m
 
 107. Exemplo SEM Função ✓
-2. Exemplo COM Função #01
-3. Função vs Algoritmo
-4. Anatomia da Função
-5. Exemplo COM Função #02
-6. Desafio Função #01
-7. Desafio Função #01 - Resposta
-8. Extra: Entendendo Undefined
-9. Função e Undefined
+2. Exemplo COM Função #01 ✓
+3. Função vs Algoritmo ✓
+4. Anatomia da Função ✓
+5. Exemplo COM Função #02 ✓
+6. Desafio Função #01 ✓
+7. Desafio Função #01 - Resposta ✓
+8. Extra: Entendendo Undefined ✓
+9. Função e Undefined ✓
 10. Função com Retorno #01
-11. Diferentes Variações
-12. Desafio Função #02
+11. Diferentes Variações ✓
+12. Desafio Função #02 
 13. Desafio Função #02 - Resposta
 14. Desafio Função #03
 15. Desafio Função #03 - Resposta
