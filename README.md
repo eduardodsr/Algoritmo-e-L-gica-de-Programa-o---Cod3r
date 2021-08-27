@@ -15,12 +15,12 @@ Seção 1: Introdução | 100%
 Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
-Seção 5: Estruturas de Controle | 20%
+Seção 5: Estruturas de Controle | 100%
 Seção 6: Funções | 0%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
-Total Geral | 50%
+Total Geral | 60%
 
 **Seção 1: Introdução** - 1h43m ✓
 
@@ -122,23 +122,23 @@ Total Geral | 50%
 8. If - Prática #04 - Resposta ✓
 9. Desafio If ✓
 10. Desafio If - Resposta ✓
-11. If/Else - Teoria
-12. If/Else - Prática #01
-13. If/Else - Prática #02
-14. If/Else - Prática #03
-15. If/Else - Prática #04
-16. If/Else - Prática #05
-17. Desafio If/Else
-18. Desafio If/Else - Resposta
-19. Laços de Repetição - Teoria
-20. While - Prática #01
-21. While - Prática #02
-22. While - Prática #03
-23. While - Prática #04
-24. For - Prática #01
-25. For - Prática #02
-26. For - Prática #03
-27. Executar Código no Modo de Debug
+11. If/Else - Teoria ✓
+12. If/Else - Prática #01 ✓
+13. If/Else - Prática #02 ✓
+14. If/Else - Prática #03 ✓
+15. If/Else - Prática #04 ✓
+16. If/Else - Prática #05 ✓
+17. Desafio If/Else ✓
+18. Desafio If/Else - Resposta ✓
+19. Laços de Repetição - Teoria ✓
+20. While - Prática #01 ✓
+21. While - Prática #02 ✓
+22. While - Prática #03 ✓
+23. While - Prática #04 ✓
+24. For - Prática #01 ✓
+25. For - Prática #02 ✓
+26. For - Prática #03 ✓
+27. Executar Código no Modo de Debug ✓
 28. Extra: Template String
 29. For - Prática #04
 30. Desafio For
