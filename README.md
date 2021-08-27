@@ -139,18 +139,18 @@ Total Geral | 60%
 25. For - Prática #02 ✓
 26. For - Prática #03 ✓
 27. Executar Código no Modo de Debug ✓
-28. Extra: Template String
-29. For - Prática #04
-30. Desafio For
-31. Desafio For - Resposta
-32. Switch
-33. Desafio Switch
-34. Desafio Switch - Resposta
-35. Break Continue
+28. Extra: Template String ✓
+29. For - Prática #04 ✓
+30. Desafio For ✓
+31. Desafio For - Resposta ✓
+32. Switch ✓
+33. Desafio Switch ✓
+34. Desafio Switch - Resposta ✓
+35. Break Continue ✓
 
 **Seção 6: Funções** - 3h 20m
 
-107. Exemplo SEM Função
+107. Exemplo SEM Função ✓
 2. Exemplo COM Função #01
 3. Função vs Algoritmo
 4. Anatomia da Função
