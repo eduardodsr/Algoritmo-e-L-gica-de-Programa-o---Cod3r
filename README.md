@@ -16,11 +16,11 @@ Seção 2: Configurando o Computador | 100%
 Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
 Seção 5: Estruturas de Controle | 100%
-Seção 6: Funções | 50%
+Seção 6: Funções | 1000%
 Seção 7: Arrays | 0%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
-Total Geral | 60%
+Total Geral | 70%
 
 **Seção 1: Introdução** - 1h43m ✓
 
@@ -159,21 +159,21 @@ Total Geral | 60%
 7. Desafio Função #01 - Resposta ✓
 8. Extra: Entendendo Undefined ✓
 9. Função e Undefined ✓
-10. Função com Retorno #01
+10. Função com Retorno #01 ✓
 11. Diferentes Variações ✓
-12. Desafio Função #02 
-13. Desafio Função #02 - Resposta
-14. Desafio Função #03
-15. Desafio Função #03 - Resposta
-16. Armazenando Funções em Variáveis #01
-17. Armazenando Funções em Variáveis #02
-18. Passar Função como Parâmetro #01
-19. Parâmetros de Função #01
-20. Parâmetros de Função #02
-21. Passar Função como Parâmetro #02
-22. Retornar Função #01
-23. Retornar Função #02
-24. Retornar Função #03
+12. Desafio Função #02  ✓
+13. Desafio Função #02 - Resposta ✓
+14. Desafio Função #03 ✓
+15. Desafio Função #03 - Resposta ✓
+16. Armazenando Funções em Variáveis #01 ✓
+17. Armazenando Funções em Variáveis #02 ✓
+18. Passar Função como Parâmetro #01 ✓
+19. Parâmetros de Função #01 ✓
+20. Parâmetros de Função #02 ✓
+21. Passar Função como Parâmetro #02 ✓
+22. Retornar Função #01 ✓
+23. Retornar Função #02 ✓
+24. Retornar Função #03 ✓
 
 **Seção 7: Arrays** - 1h 26m
 
