@@ -17,10 +17,10 @@ Seção 3: Iniciando com Programação | 100%
 Seção 4: Operadores | 100%
 Seção 5: Estruturas de Controle | 100%
 Seção 6: Funções | 100%
-Seção 7: Arrays | 0%
+Seção 7: Arrays | 100%
 Seção 8: Objetos | 0%
 Seção 9: Lista de Exercícios | 0%
-Total Geral | 70%
+Total Geral | 90%
 
 **Seção 1: Introdução** - 1h43m ✓
 
@@ -177,18 +177,18 @@ Total Geral | 70%
 
 **Seção 7: Arrays** - 1h 26m
 
-131. Array Teoria
-2. Básico sobre Array #01
-3. Básico sobre Array #02
-4. Básico sobre Array #03
-5. Usando For com Array #01
-6. Usando For com Array #02
-7. Desafio Array For
-8. Desafio Array For - Resposta
-9. Métodos do Array #01
-10. Métodos do Array #02
-11. Métodos do Array #03
-12. Conclusão Módulo
+131. Array Teoria ✓
+2. Básico sobre Array #01 ✓
+3. Básico sobre Array #02 ✓
+4. Básico sobre Array #03 ✓
+5. Usando For com Array #01 ✓
+6. Usando For com Array #02 ✓
+7. Desafio Array For ✓
+8. Desafio Array For - Resposta ✓
+9. Métodos do Array #01 ✓
+10. Métodos do Array #02 ✓
+11. Métodos do Array #03 ✓
+12. Conclusão Módulo ✓
 
 **Seção 8: Objetos** - 1h 37m
 
