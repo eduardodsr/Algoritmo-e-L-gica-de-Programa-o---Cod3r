@@ -1,4 +1,13 @@
 # Algoritmo e Lógica de Programação do Absoluto ZERO! Completo
+
+
+[![](https://img.shields.io/badge/made_by-eduardodsr-blue)](https://github.com/eduardodsr/)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/AlgoritmoLogicaDeProgramacao)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/AlgoritmoLogicaDeProgramacao)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/AlgoritmoLogicaDeProgramacao)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.AlgoritmoLogicaDeProgramacao)
+
+
 **Título**: Algoritmo e Lógica de Programação do Absoluto ZERO! Completo  
 **Professor**: Leonardo Moura Leitao  
 **Empresa**: Cod3r  
@@ -8,6 +17,10 @@
 **Link**: https://www.udemy.com/course/aprenda-programacao-do-absoluto-zero-o-seu-primeiro-curso/
 
 **Link do Certificado**: https://udemy-certificate.s3.amazonaws.com/pdf/UC-d4e09866-f101-4ccc-a819-507db050049d.pdf
+
+## Código Fonte:
+
+[Fundamentos](https://github.com/eduardodsr/AlgoritmoLogicaDeProgramacao/tree/main/fundamentos)
 
 <br>
 
@@ -212,3 +225,10 @@ Total Geral | 100%
 15. Teoria sobre Objeto #03 
 16. Classe e Objeto 
 
+### CONTATO:
+
+![Apple](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+Name: EDUARDO RODRIGUES
+
+e-mail: eduardodsr@gmail.com
